@@ -17,7 +17,7 @@ if 'login_failed' not in st.session_state:
     st.session_state.login_failed = False
 
 # Definimos la contraseña de acceso
-PASSWORD_CORRECTA = "csaires2025" 
+PASSWORD_CORRECTA = "CS2026" 
 
 # --- FUNCIONES ---
 
